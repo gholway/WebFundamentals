@@ -11,7 +11,8 @@ Fonts are separated by a & */
   --accent2-color: rgb(0, 0, 0);
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "IM Fell French Canon";
+  --heading-font: Lato, Helvetica, sans-serif;
+  --heading-font-size: 2em;
   --paragraph-font: Lato, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
@@ -20,12 +21,15 @@ Fonts are separated by a & */
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
   --paragraph-color-on-color: rgb(0, 0, 0); /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
+  --paragraph-background-line-height: 1.5em;
   --nav-link-color: #396E94;
   --nav-background-color: #D4AC0D;
   --nav-hover-link-color: rgb(0, 0, 0);
   --nav-hover-background-color: #396E94;
 }
-
+h2 {
+  margin: 0;
+}
 #background {
   height: 725px;
 }

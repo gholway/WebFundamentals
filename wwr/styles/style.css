@@ -39,7 +39,7 @@ header
   grid-template-columns: 150px auto;
   padding: 1em;
   text-align: center;
-  color: var(--headline-color-on-color);
+  color: white;
 }
 nav a:hover
 {

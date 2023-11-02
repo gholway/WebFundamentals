@@ -34,13 +34,12 @@ body
 }
 header
 {
-  background-color: #00ff00;
+  background-color: rgba(20,30,13,.7);
   display: grid;
   grid-template-columns: 150px auto;
   padding: 1em;
   text-align: center;
   color: var(--headline-color-on-color);
-  background-color: var(--paragraph-background-color);
 }
 nav a:hover
 {

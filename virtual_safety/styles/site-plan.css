@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 :root{
-    --primary-color: blue;
-    --secondary-color: purple;
-    --accent1-color: red;
-    --accent2-color: black;
-    --heading-font: "times new roman";
+    --primary-color: #1F271B;
+    --secondary-color: #0B4F6C;
+    --accent1-color: #145C9E;
+    --accent2-color: #CBB9A8;
+    --heading-font: 'Open Sans', sans-serif;;
     --paragraph-font: Lato, Helvetica, sans-serif;
     --headline-color-on-white: black;
     --headline-color-on-color: grey;

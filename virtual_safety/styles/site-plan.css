@@ -11,10 +11,10 @@
     --headline-color-on-color: grey;
     --paragraph-color-on-white: black;
     --paragraph-color-on-color: grey; 
-    --paragraph-background-color: green;
-    --nav-link-color: yellow;
-    --nav-background-color: cyan;
-    --nav-hover-link-color: lime;
+    --paragraph-background-color: #1F271B;
+    --nav-link-color: #0B4F6C;
+    --nav-background-color: #145C9E;
+    --nav-hover-link-color: #CBB9A8;
     --nav-hover-background-color: blue;
 }
 
